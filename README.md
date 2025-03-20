@@ -1,1 +1,3 @@
-tải lab :wget https://github.com/DuongRTIT/stego_h264_video_encoding/blob/main/stego_h264_video_encoding.tar
+tải lab :
+cd labtainer/labtainer-student
+wget https://github.com/DuongRTIT/stego_h264_video_encoding/blob/main/stego_h264_video_encoding.tar
